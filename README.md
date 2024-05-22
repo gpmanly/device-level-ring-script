@@ -1,0 +1,1 @@
+This is the script run on EVB-KSZ9477 and EVB-SAMA5D3-EDS for this demo (https://youtu.be/-msbVk9uxsQ). The script applies to the switches. They differ only in the IP address and selection of the supervisor node. There should only be one supervisor node in the DLR network. The purpose of the script is just to run DLR in shell prompt instead of configuring the DLR from u-boot.
